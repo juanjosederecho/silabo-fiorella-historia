@@ -1,2 +1,6 @@
-# silabo-fiorella-historia
-Silabo de Historia preuniversitaria para Fiorella - Rosaspata 4A
+# Sílabo de Historia — Fiorella
+
+Vista previa:
+https://htmlpreview.github.io/?https://github.com/juanjosederecho/silabo-fiorella-historia/blob/main/index.html
+
+Repositorio: https://github.com/juanjosederecho/silabo-fiorella-historia
